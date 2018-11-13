@@ -7,4 +7,5 @@
 
 
 
-- SSH
+- WiFi      - https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md
+- SSH       - https://www.raspberrypi.org/documentation/remote-access/ssh/
